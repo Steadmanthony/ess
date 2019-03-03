@@ -1,0 +1,230 @@
+
+
+body{
+  height: 100%;
+  font-family: "Montserrat";
+}
+html {
+  height: 100%;
+}
+
+h1 {
+font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2 {
+font-family: "Montserrat-bold";
+font-size: 3rem;
+line-height: 1.5;
+}
+h3
+{
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+}
+
+p {
+  color: #1f3c88;
+}
+
+
+/* navigation bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #070d59;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  color: #070d59;
+}
+
+/* Title */
+#title {
+background-color:#5893d4;
+
+}
+.title-heading {
+  color: #fff;
+}
+.title-text {
+  font-size: 2rem;
+  color: #070d59;
+}
+.container-fluid {
+  padding:3% 15%;
+}
+.title-image {
+padding-left: 20%;
+padding-bottom: 3%;
+
+}
+.phone-number {
+margin-left: 130px;
+  text-align: center;
+  border-style: groove;
+  border-color:  #f7b633;
+    border-radius: 5px;
+    width: 435px;
+    vertical-align: middle;
+      color: #070d59;
+
+}
+
+
+/* Services */
+#services {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #f7b633;
+align-items: center;
+color: #fff;
+
+}
+
+.service-box {
+  padding: 7%;
+
+}
+.icon {
+  color: #5893d4;
+  margin-bottom: 3rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+}
+.icon-text
+{
+  display:inline-block;
+vertical-align: -150px;
+}
+
+.icon:hover {
+  color: #1f3c88;
+}
+
+/* Projects */
+
+#projects {
+  padding: 7% 15%;
+  text-align: center;
+  background-color:#5893d4;
+  color: #fff;
+}
+
+.project-image {
+  width: 40%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* Brands */
+#brands {
+  background-color: #5893d4;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.brand-logo {
+margin: 20px 20px 50px;
+  width: 200px; height: 150px;
+
+
+}
+
+/* Contact Us */
+
+
+#contact {
+  background-color: #f7b633;
+  text-align: center;
+  color: #fff;
+  padding: 7% 15%;
+
+}
+.contact-heading {
+font-size: 3.5rem;
+line-height: 2;
+margin-bottom: 5%;
+}
+.contact-subheading {
+  font-size: 3rem;
+  line-height: 1.5;
+  color:  #070d59;
+  margin-bottom: 2%;
+}
+.contact-text {
+  font-family: "Montserrat-Black";
+  font-size: 1.5rem;
+line-height: 1.5;
+color: #070d59;
+margin-bottom: 1%;
+
+}
+.quote-btn {
+  margin-bottom: 5%;
+}
+
+#footer {
+  padding: 1% 3%;
+  background-color: #fff;
+  text-align: center;
+}
+
+/* Footer */
+
+
+
+/* quote Form */
+.btn-quote {
+  text-align: center;
+}
+
+.quote-heading {
+  text-align: center;
+  color: #fff;
+}
+
+/* aircon */
+
+.aircon-image {
+  text-align: center;
+  padding-bottom: 3%;
+  padding-left: 100px;
+}
+/* refrigeration */
+
+.refrigeration-image {
+  padding-bottom: 3%;
+  padding-left: 20px;
+}
+
+
+/* electrical */
+
+.electrical-image {
+  padding-bottom: 3%;
+  padding-right: 15px;
+}
+
+
+
+/* about */
+
+
+
+.about-image {
+  padding-bottom: 3%
+}
